@@ -1,0 +1,10 @@
+README.md
+setup.py
+evidential_learning/__init__.py
+evidential_learning/layer.py
+evidential_learning/loss.py
+evidential_learning.egg-info/PKG-INFO
+evidential_learning.egg-info/SOURCES.txt
+evidential_learning.egg-info/dependency_links.txt
+evidential_learning.egg-info/requires.txt
+evidential_learning.egg-info/top_level.txt
